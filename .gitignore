@@ -70,3 +70,6 @@ myapp*.py
 
 # redis test artifacts
 dump.rdb
+
+*.iml
+.idea
